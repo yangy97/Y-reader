@@ -85,6 +85,18 @@ mint完成了大多数比如轮播，list等都是mint
 ```
 我配置了Nginx，网上有教程，很简单
 ```
+
+### 截图
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/shouye.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/shujia.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/yuedu.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/author.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/detail.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/feilei.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/jingxuan.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/paihang.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/search.png)
+
 ### 心得
 ```
 做第二版的初衷是，我刚好实习了几个月在公司利用vue开发了一些项目，所以打算重新写这个小说，让自己得到锻炼，在以后面试也能多一个项目经验，虽然是纯粹的前端，但还是学到了不少，利用flex布局，刚好趁着疫情就在家瞎鼓捣，大概写了一周吧，主要花在了分类详情页面，上面的滑动导航利用的是mui，但是跟mint的css样式有所冲突，这个花了很长的时间，再然后就是阅读界面，要写设置，要写目录，要写缓存（本地缓存），花费了很长的时间，其他页面不难，总体来说不是很难，我也写不出什么心得了，哈哈哈
