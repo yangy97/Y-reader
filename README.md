@@ -87,14 +87,14 @@ mint完成了大多数比如轮播，list等都是mint
 ```
 
 ### 截图
-![](https://github.com/yangy97/Y-reader/blob/master/screenshot/shouye.png)
-![](https://github.com/yangy97/Y-reader/blob/master/screenshot/shujia.png)
-![](https://github.com/yangy97/Y-reader/blob/master/screenshot/yuedu.png)
-![](https://github.com/yangy97/Y-reader/blob/master/screenshot/author.png)
-![](https://github.com/yangy97/Y-reader/blob/master/screenshot/detail.png)
-![](https://github.com/yangy97/Y-reader/blob/master/screenshot/feilei.png)
-![](https://github.com/yangy97/Y-reader/blob/master/screenshot/jingxuan.png)
-![](https://github.com/yangy97/Y-reader/blob/master/screenshot/paihang.png)
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/shouye.png)![](https://github.com/yangy97/Y-reader/blob/master/screenshot/shujia.png)
+
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/yuedu.png)![](https://github.com/yangy97/Y-reader/blob/master/screenshot/author.png)
+
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/detail.png)![](https://github.com/yangy97/Y-reader/blob/master/screenshot/feilei.png)
+
+![](https://github.com/yangy97/Y-reader/blob/master/screenshot/jingxuan.png)![](https://github.com/yangy97/Y-reader/blob/master/screenshot/paihang.png)
+
 ![](https://github.com/yangy97/Y-reader/blob/master/screenshot/search.png)
 
 ### 心得
