@@ -40,7 +40,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
  阅读历史记录
 
-### 我在2019年初学vue2.0本来初学做好了一版小说阅读，但是感觉不好看，所以重新写了一个，利用vue4.0搭的框架,作为实习还行
+### 我在2019年初学vue2.0本来初学做好了一版小说阅读，但是感觉不好看，所以重新写了一个，利用vue2.0搭的框架,作为实习还行
 ### 技术栈
 ```
 vue vue-cli3 vue-router vuex es6 webpack axios less mint-ui   mui javaScript
