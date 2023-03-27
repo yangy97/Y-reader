@@ -274,6 +274,7 @@
 					this.$nextTick(function() {
 						let scrollW = this.$refs.bookInner.scrollWidth;
 						let clientW = this.$refs.bookInner.clientWidth;
+						console.log(scrollW,clientW,'打印的数据')
 						this.resultPaging = Math.floor(scrollW / clientW)
 					})
 
